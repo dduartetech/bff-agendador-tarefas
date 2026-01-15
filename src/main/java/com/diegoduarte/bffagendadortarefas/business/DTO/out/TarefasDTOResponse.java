@@ -1,6 +1,6 @@
 package com.diegoduarte.bffagendadortarefas.business.DTO.out;
 
-import com.diegoduarte.bffagendadortarefas.infrastructure.enums.enums.StatusNotificacaoEnum;
+import com.diegoduarte.bffagendadortarefas.infrastructure.enums.StatusNotificacaoEnum;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.*;
 

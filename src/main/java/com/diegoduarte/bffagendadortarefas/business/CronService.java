@@ -2,7 +2,7 @@ package com.diegoduarte.bffagendadortarefas.business;
 
 import com.diegoduarte.bffagendadortarefas.business.DTO.in.LoginRequestDTO;
 import com.diegoduarte.bffagendadortarefas.business.DTO.out.TarefasDTOResponse;
-import com.diegoduarte.bffagendadortarefas.infrastructure.enums.enums.StatusNotificacaoEnum;
+import com.diegoduarte.bffagendadortarefas.infrastructure.enums.StatusNotificacaoEnum;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
