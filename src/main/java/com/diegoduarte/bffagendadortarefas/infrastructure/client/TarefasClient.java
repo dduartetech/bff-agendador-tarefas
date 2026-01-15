@@ -2,7 +2,7 @@ package com.diegoduarte.bffagendadortarefas.infrastructure.client;
 
 import com.diegoduarte.bffagendadortarefas.business.DTO.in.TarefasDTORequest;
 import com.diegoduarte.bffagendadortarefas.business.DTO.out.TarefasDTOResponse;
-import com.diegoduarte.bffagendadortarefas.infrastructure.enums.enums.StatusNotificacaoEnum;
+import com.diegoduarte.bffagendadortarefas.infrastructure.enums.StatusNotificacaoEnum;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.web.bind.annotation.*;
